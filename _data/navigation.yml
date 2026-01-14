@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Biography"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Honors"
+    url: /honors/
+  - title: "Leadership"
+    url: /leadership/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "CV"
+    url: /assets/CV_John_Jo.pdf
